@@ -1,0 +1,75 @@
+{
+    "Age": [
+        13.0
+    ],
+    "Haemoglobin Level": [
+        12.3
+    ],
+    "R.B.C Count": [
+        4.77
+    ],
+    "W.B.C Count": [
+        6200.0
+    ],
+    "Platelets Count": [
+        119000.0
+    ],
+    "Neutrophils": [
+        81.0
+    ],
+    "Lymphocytes": [
+        18.0
+    ],
+    "Eosinophils": [
+        1.0
+    ],
+    "Monocytes": [
+        0.0
+    ],
+    "Basophils": [
+        0.0
+    ],
+    "HCT": [
+        "None"
+    ],
+    "WBC Morphology": [
+        "NaN"
+    ],
+    "Monocyte Morphology": [
+        "NaN"
+    ],
+    "RBC Shape": [
+        "NORMOCHROMIC,NORMOCYTIC"
+    ],
+    "Blood Parasites": [
+        "NaN"
+    ],
+    "PCV": [
+        39.9
+    ],
+    "MCV": [
+        83.65
+    ],
+    "MCH": [
+        25.79
+    ],
+    "MCHC": [
+        30.83
+    ],
+    "RDW": [
+        "None"
+    ],
+    "MPV": [
+        "None"
+    ],
+    "Mentezer Index": [
+        "None"
+    ],
+    "Retic Count": [
+        "None"
+    ],
+    "ESR": [
+        "None"
+    ],
+    "Diagnosis": "Viral Infection"
+}
