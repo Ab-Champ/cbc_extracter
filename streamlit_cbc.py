@@ -4,7 +4,6 @@ import numpy as np
 import pickle
 import random
 import json
-from sklearn.preprocessing import StandardScaler
 from cbc import CBCDataProcessor
 
 # Define the labels for disease classification
